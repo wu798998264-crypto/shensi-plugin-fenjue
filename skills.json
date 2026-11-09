@@ -1,8 +1,9 @@
 {
   "name": "焚决",
-  "version": "1.0.3",
-  "sha256": "3cd1fd3d7238ef0f0ff2face88be169be771327d2a12f60da531236c6e2a8478",
-  "sizeBytes": 2060422,
+  "version": "1.0.4",
+  "sha256": "afa00acc6af3a621d65f9c4d46827b14dea4e6ed8def5b6cf3cd22d7b860e886",
+  "sizeBytes": 2060461,
+  "accessTier": "vip",
   "skills": [
     {
       "id": "qilin-01",
